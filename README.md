@@ -15,19 +15,19 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Divas-Sagta/Chit-Chat
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd Chit-Chat
 ```
 
 Install dependencies
@@ -58,24 +58,24 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/login.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/mainscreen.PNG)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/new%20grp.PNG)
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/add%20rem.PNG)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/Divas-Sagta/Chit-Chat/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@Divas-Sagta](https://github.com/Divas-Sagta)
 
   
